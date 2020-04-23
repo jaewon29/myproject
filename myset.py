@@ -76,7 +76,7 @@ class Set:
     def intersection_update(self, other):
         for x in self.data:
             if x not in other.data:
-                x.remove(self)
+                self.remove(x)
             else:
                 pass
         return self
