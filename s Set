@@ -1,0 +1,17 @@
+* [33mcommit 2155b9d7f0f03c1d7ce90865e98443f80e9a3a09[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: jaewonpark <jaewon29@naver.com>
+[31m|[m Date:   Thu Apr 23 21:24:22 2020 +0900
+[31m|[m 
+[31m|[m     initial code
+[31m|[m 
+* [33mcommit 5992caf5dc33c96a35954a49785ed6841cc0cef2[m
+[31m|[m Author: jaewonpark <jaewon29@naver.com>
+[31m|[m Date:   Thu Apr 23 21:19:43 2020 +0900
+[31m|[m 
+[31m|[m     add[vscode to .ignore]
+[31m|[m 
+* [33mcommit 4fb36a0e32dcc34852d83460df2ceb955d8bacfb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+  Author: jaewon29 <64202915+jaewon29@users.noreply.github.com>
+  Date:   Thu Apr 23 20:46:28 2020 +0900
+  
+      Initial commit
